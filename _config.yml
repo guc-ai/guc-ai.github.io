@@ -15,8 +15,8 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  THTkNA_scL-vU9FSwK74YaEkMdVwCb35uWHoAI98FH4 # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 6DF6A99A69BE12DD803288B31B4F256E # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -26,10 +26,10 @@ author:
   bio              : "吉利学院"
   location         : "四川 成都"
   employer         : "Geely University of China"
+  email            : "gaozhengjie@guc.edu.cn"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=-vED2KkAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Gao-Zhengjie"
   uri              : 
   bitbucket        :
   codepen          :
