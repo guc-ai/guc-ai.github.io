@@ -63,6 +63,7 @@ redirect_from:
 - `高正杰`，郭刚，郭敏等. 一种财经新闻中企业主体的情感分析方法和系统（申请号：2019105907107，已授权）[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA2ACA8DEA9CAC9EEA4BDA9AHD9CAC9HFD9CDD9EFB8IAA)
 - 栗荣成，冯翱，`高正杰`. 一种将适配器注入预训练模型的参数高效化方法和装置（申请号：2024100511886，已授权）[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE8FDA7FAA9FFF9CIC4CCA3DAA7BBA4ADA7GAA9AGF9IAH)
 
+<span class='anchor' id='-kyxm'></span>
 # 科研项目
 ---
 - 参与项目，陈郑淏, `高正杰`, 徐天豪等. 财经新闻舆情分析的研究与应用, 四川省科技创新苗子工程资助项目（项目号：2018115），2018.
