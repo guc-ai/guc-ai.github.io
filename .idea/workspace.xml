@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30ee8f56-b355-43bd-9dd9-3a486c5e658d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <workItem from="1716944956311" duration="8000" />
       <workItem from="1718013682210" duration="1505000" />
       <workItem from="1719982042620" duration="12000" />
-      <workItem from="1726331407206" duration="702000" />
+      <workItem from="1726331407206" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="新增了两句话用于测试">
       <created>1716259849466</created>
@@ -125,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726331541943</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="++">
+      <created>1726332140913</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726332140913</updated>
+    </task>
+    <task id="LOCAL-00012" summary="++">
+      <created>1726332226675</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726332226675</updated>
+    </task>
+    <task id="LOCAL-00013" summary="++">
+      <created>1726332309390</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726332309390</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +170,7 @@
     <MESSAGE value="--" />
     <MESSAGE value="删除谷歌学术引用的配置文件" />
     <MESSAGE value="Merge branch 'main' of https://github.com/guc-ai/guc-ai.github.io&#10;&#10;# Conflicts:&#10;#&#9;_includes/masthead.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/guc-ai/guc-ai.github.io&#10;&#10;# Conflicts:&#10;#&#9;_includes/masthead.html" />
+    <MESSAGE value="++" />
+    <option name="LAST_COMMIT_MESSAGE" value="++" />
   </component>
 </project>
