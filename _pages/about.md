@@ -29,7 +29,9 @@ redirect_from:
   - RAG（检索增强生成）
   - 垂直领域大语言模型构建
   
-
+# 📰 新闻
+- 2024.9.15，所带班级 2023级物联网工程2班再次被评为优秀学风班级
+- 2024.9，评为优秀班主任
 
 <span class='anchor' id='-xl'></span>
 
@@ -37,7 +39,7 @@ redirect_from:
 - *2013.09 - 2017.09*, <a href="https://www.cuit.edu.cn/">成都信息工程大学</a>  计算机学院, 四川成都, 本科
 - *2017.09 - 2020.06*, <a href="https://www.cuit.edu.cn/">成都信息工程大学</a>  计算机学院, 四川成都, 硕士
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-lw'></span>
 
 # 📝 论文
 ---
@@ -49,6 +51,8 @@ redirect_from:
 - Ao Feng, Jiazhi Cai, `Zhengjie Gao`. Aspect-level sentiment classification with fused local and global context[J]. Journal of Big Data, 2023. (SCI 二区)
 - `Zhengjie Gao`, Zixuan Liu, et al. A Brief Survey on Safety of Large Language Models[J]. Journal of Computing and Information Technology, 2024. (EI)
 - 刘涛，冯翱，`高正杰`. 基于后提示和实例适应的跨域方面情感分析[J].软件导刊，2024.
+
+<span class='anchor' id='-zl'></span>
 
 # 专利
 ---
@@ -79,7 +83,7 @@ redirect_from:
 - 2020.09，ACM成都分会优秀硕士生论文提名奖
 - 2024.09，优秀班主任
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-shjz'></span>
 # 社会兼职
 CNKI评审专家库专家、中原招采网专家库专家、专知智库专家、电子信息人才能力提升工程专家库专家
 Journal of Supercomputing、IEEE Access、Journal of Big Data、Knowledge and Information Systems、Social Network Analysis and Mining期刊审稿人
