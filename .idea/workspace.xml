@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30ee8f56-b355-43bd-9dd9-3a486c5e658d" name="Changes" comment="" />
+    <list default="true" id="30ee8f56-b355-43bd-9dd9-3a486c5e658d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/HUST_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SCU_logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,14 +28,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "D:/PythonProject/guc-ai.github.io"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject/guc-ai.github.io/_pages/about.md&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;D:/PythonProject/guc-ai.github.io/_pages/about.md&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +47,12 @@
       <option name="presentableId" value="Default" />
       <updated>1716259442339</updated>
       <workItem from="1716259444565" duration="2461000" />
+      <workItem from="1716261931348" duration="2644000" />
+      <workItem from="1716301996991" duration="343000" />
+      <workItem from="1716431992336" duration="2463000" />
+      <workItem from="1716944956311" duration="8000" />
+      <workItem from="1718013682210" duration="1505000" />
+      <workItem from="1719982042620" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="新增了两句话用于测试">
       <created>1716259849466</created>
@@ -56,7 +68,56 @@
       <option name="project" value="LOCAL" />
       <updated>1716261807147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1716262075719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716262075719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1716262533531</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716262533531</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1716263991524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716263991524</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加了一些描述">
+      <created>1716432236924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716432236924</updated>
+    </task>
+    <task id="LOCAL-00007" summary="123">
+      <created>1716432453917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716432453917</updated>
+    </task>
+    <task id="LOCAL-00008" summary="--">
+      <created>1718014225256</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718014225256</updated>
+    </task>
+    <task id="LOCAL-00009" summary="删除谷歌学术引用的配置文件">
+      <created>1718014474288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718014474288</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +137,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增了两句话用于测试" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="增加了一些描述" />
+    <MESSAGE value="123" />
+    <MESSAGE value="--" />
+    <MESSAGE value="删除谷歌学术引用的配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除谷歌学术引用的配置文件" />
   </component>
 </project>
