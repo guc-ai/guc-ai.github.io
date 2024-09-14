@@ -17,20 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-目前是吉利学院电子信息工程学院专任教师，本科和硕士均毕业于成都信息工程大学 计算机学院。
+目前是吉利学院电子信息工程学院人工智能教研室专任教师，本科和硕士均毕业于成都信息工程大学 计算机学院。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 情感分析
+  - Aspect-based Sentiment Analysis
 - 大语言模型
+  - 幻觉检测
+  - 安全检测
+  - RAG（检索增强生成）
+  - 垂直领域大语言模型构建
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2013.09 - 2017.09*, <a href="https://www.cuit.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 成都信息工程大学 计算机学院, 四川成都, 本科
-- *2017.09 - 2020.06*, <a href="https://www.cuit.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 成都信息工程大学 计算机学院, 四川成都, 硕士
+- *2013.09 - 2017.09*, <a href="https://www.cuit.edu.cn/"><img class="svg" src="/images/cuit_logo.svg" width="23pt"></a> 成都信息工程大学 计算机学院, 四川成都, 本科
+- *2017.09 - 2020.06*, <a href="https://www.cuit.edu.cn/"><img class="svg" src="/images/cuit_logo.svg" width="20pt"></a> 成都信息工程大学 计算机学院, 四川成都, 硕士
  
 <span class='anchor' id='-lwzl'></span>
 
