@@ -94,9 +94,12 @@ redirect_from:
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-
+- 冯翱, `高正杰`, 吴锡. 基于人机协同学习的数据标注方法（专利号：ZL201810416774.0，已授权）.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=8FBA8AIA9FDA9CFG9FFC9IDC8CCA1AAA9EAB9BGFGIIA8BDA)
+- `高正杰`，宋馨宇，冯翱. 一种基于改进BERT模型的特定目标情感分类方法（专利号：ZL201910809516.3，已授权）.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CGB8BHA8DEACEGA6CDA8CGA9AGF9BIA9DBE9GDF7ECA9EAB)
+- `高正杰`，冯翱，宋馨宇. 一种基于细粒度标注数据的情感判别方法（专利号：ZL201910809268.2，已授权）.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GCB9EHC9FDA9BBC8DEA9IFEFGIA8AIAGGIA9DIE9GDGBDHA)
+- `高正杰`，冯翱，宋馨宇. 一种基于图神经网络的特定目标情感分类方法（专利号：ZL202010379339.2，已授权）.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=BIIA6FBA4CAA9FHD6EBA9DIC9BHC9EBDDDIAAIGA6DAA9AGG)
+- `高正杰`，郭刚，郭敏等. 一种财经新闻中企业主体的情感分析方法和系统（申请号：2019105907107，已授权）[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA2ACA8DEA9CAC9EEA4BDA9AHD9CAC9HFD9CDD9EFB8IAA)
+- 栗荣成，冯翱，`高正杰`. 一种将适配器注入预训练模型的参数高效化方法和装置（申请号：2024100511886，已授权）[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE8FDA7FAA9FFF9CIC4CCA3DAA7BBA4ADA7GAA9AGF9IAH)
 
 
 
@@ -106,16 +109,16 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- [1]	研究生学业二等奖学金，2017.11.
-- [2]	研究生学业三等奖学金，2018.11.
-- [3]	优秀研究生干部，2018.12.
-- [4]	第十五届“挑战杯”四川省大学生课外学术科技作品竞赛，高正杰, 陈郑淏, 徐天豪等. 三等奖，2019.06.
-- [5]	世界人工智能大会2019黑客马拉松AutoNLP大赛，高正杰，宋馨宇. 优胜奖，2019.08.
-- [6]	研究生学业二等奖学金，2019.11.
-- [7]	优秀研究生干部，2019.12.
-- [8]	优秀研究生毕业生，2020.06.
-- [9]	ACM成都分会优秀硕士生论文提名奖，2020.09.
-- [10]  优秀班主任，2024.09.
+- 2017.11，研究生学业二等奖学金
+- 2018.11，研究生学业三等奖学金
+- 2018.12，优秀研究生干部
+- 2019.06，第十五届“挑战杯”四川省大学生课外学术科技作品竞赛，`高正杰`, 陈郑淏, 徐天豪等. 三等奖
+- 2019.08，世界人工智能大会2019黑客马拉松AutoNLP大赛，`高正杰`，宋馨宇. 优胜奖
+- 2019.11，研究生学业二等奖学金
+- 2019.12，优秀研究生干部
+- 2020.06，优秀研究生毕业生
+- 2020.09，ACM成都分会优秀硕士生论文提名奖
+- 2024.09，优秀班主任
 
 <span class='anchor' id='-xshy'></span>
 
