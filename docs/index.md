@@ -2,14 +2,14 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: Natural Language Process Group
+title: Intelligent Computing & Applications Lab
 
 hero:
-  name: 'Natural Language Process Group'
-  text: '冯翱 博士'
-  tagline: '成都信息工程大学NLP课题组'
+  name: 'Intelligent Computing & Applications Lab'
+  text: '高正杰'
+  tagline: '智能计算与应用实验室'
   image:
-    src: /image/fengao.png
+    src: /image/gzj.png
   actions:
     - theme: brand
       text: Research
