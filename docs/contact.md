@@ -24,11 +24,11 @@ onMounted(() => {
   }
 })
 </script>
-Address：Hangkonggang Campus (航空港校区)
-No.24 Block 1, Xuefu Road, Shungliu District, Chengdu, China
-(四川省成都市双流区学府路一段24号)
+Address：Geely University of China (吉利学院)
+No. 123, Chengjian Avenue, Eastern New District, Chengdu, China
+(成都市东部新区成简大道123号)
 
-Email：`fengao@cuit.edu.cn`
+Email：`gaozhengjie@guc.edu.cn`
 
 ![图片](/image/address.png)
 

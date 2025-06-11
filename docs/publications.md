@@ -50,14 +50,7 @@ _Chunhua Yao, Xinyu Song\*, Xuelei Zhang, Weicheng Zhao, Ao Feng_
 </div>
 
 
-**Self-Information Loss Compensation Learning for Machine-Generated Text Detection**
 
-_Weikuan Wang, Ao Feng\*_
-
-<div style='display: flex'>
-    <a href="https://www.hindawi.com/journals/mpe/2021/6669468/"><img src="https://img.shields.io/badge/Journal-Mathematical Problems in Engineering-brightgreen" /></a> 
-    <a href="https://www.hindawi.com/journals/mpe/2021/6669468/"><img src="https://img.shields.io/badge/4区-ff69b4" /></a>
-</div>
 
 
 
@@ -100,127 +93,6 @@ _Zhengjie Gao, Ao Feng\*, Xinyu Song, Xi Wu_
     &nbsp;<a href="https://github.com/gaozhengjie/TD-BERT"><img src="https://img.shields.io/badge/Code-GitHub-red" /></a>
     &nbsp;<a href="https://so.cljtscd.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Target-dependent+sentiment+classification+with+BERT&btnG="><img src="https://img.shields.io/badge/Cited times in Google Scholar-379-4e71f2" /></a>
 </div>
-
-
-**Embeddings and Convolution, Is That the Best You can Do with Sentiment Features**
-
-_Ao Feng, Zhenghao Chen, Shuang Zhou, Xi Wu_
-
-<div style='display: flex'>
-    <a href="https://ieeexplore.ieee.org/abstract/document/8852160"><img src="https://img.shields.io/badge/Conference-IJCNN-brightgreen" /></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/8852160"><img src="https://img.shields.io/badge/CCF C-ff69b4" /></a>  
-</div>
-
-
-
-
-## 2017
-
-**From Convolutional to Recurrent: Case Study in Nasopharyngeal Carcinoma Segmentation**
-
-_Ao Feng, Zhenghao Chen, Zongqing Ma, Xi Wu_
-
-<div style='display: flex'>
-    <a href="https://ieeexplore.ieee.org/abstract/document/8253187"><img src="https://img.shields.io/badge/Conference-Proceedings of FADS-brightgreen" /></a> 
-</div>
-
-
-
-## 2009
-
-**Incident Threading for News Passages**
-
-_Ao Feng, James Allan_
-
-<div style='display: flex'>
-    <a href="https://dl.acm.org/doi/abs/10.1145/1645953.1646118"><img src="https://img.shields.io/badge/Conference-CIKM-brightgreen" /></a>
-    <a href="https://dl.acm.org/doi/abs/10.1145/1645953.1646118"><img src="https://img.shields.io/badge/CCF B-ff69b4" /></a>  
-</div>
-
-
-
-
-## 2007
-
-**Finding and Linking Incidents in News**
-
-_Ao Feng, James Allan_
-
-<div style='display: flex'>
-    <a href="https://dl.acm.org/doi/abs/10.1145/1321440.1321554"><img src="https://img.shields.io/badge/Conference-CIKM-brightgreen" /></a>
-    <a href="https://dl.acm.org/doi/abs/10.1145/1321440.1321554"><img src="https://img.shields.io/badge/CCF B-ff69b4" /></a> 
-</div>
-
-
-**Document Clustering - an Optimization Problem**
-
-_Ao Feng_
-
-<div style='display: flex'>
-    <a href="https://dl.acm.org/doi/abs/10.1145/1277741.1277925"><img src="https://img.shields.io/badge/Conference-SIGIR-brightgreen" /></a> 
-    <a href="https://dl.acm.org/doi/abs/10.1145/1277741.1277925"><img src="https://img.shields.io/badge/CCF A-ff69b4" /></a>
-</div>
-
-## 2006
-
-**Combining Evidence from Homologous Datasets**
-
-_Ao Feng, James Allan_
-
-<div style='display: flex'>
-    <a href="https://www.researchgate.net/publication/235021592_Combining_Evidence_from_Homologous_Datasets"><img src="https://img.shields.io/badge/Conference-SIGIR-brightgreen" /></a> 
-    <a href="https://www.researchgate.net/publication/235021592_Combining_Evidence_from_Homologous_Datasets"><img src="https://img.shields.io/badge/CCF A-ff69b4" /></a> 
-</div>
-
-## 2004
-
-**Event Threading within News topics**
-
-_Ramesh Nallapati, Ao Feng, Fuchun Peng, James Allan_
-
-<div style='display: flex'>
-    <a href="https://dl.acm.org/doi/abs/10.1145/1031171.1031258"><img src="https://img.shields.io/badge/Conference-CIKM-brightgreen" /></a> 
-    <a href="https://dl.acm.org/doi/abs/10.1145/1031171.1031258"><img src="https://img.shields.io/badge/CCF B-ff69b4" /></a> 
-    &nbsp;<a href="https://so.cljtscd.com/scholar?q=Event+Threading+within+News+topics"><img src="https://img.shields.io/badge/Cited times in Google Scholar-347-4e71f2" /></a>
-</div>
-
-## 2003
-
-**Flexible Intrinsic Evaluation of Hierarchical Clustering for TDT**
-
-_James Allan, Ao Feng, Alvaro Bolivar_
-
-<div style='display: flex'>
-    <a href="https://dl.acm.org/doi/abs/10.1145/956863.956914"><img src="https://img.shields.io/badge/Conference-CIKM-brightgreen" /></a> 
-    <a href="https://dl.acm.org/doi/abs/10.1145/956863.956914"><img src="https://img.shields.io/badge/CCF B-ff69b4" /></a>
-</div>
-
-
-## 2002
-
-**A Critical Examination of TDT's Cost Function**
-
-_R. Manmatha, Ao Feng, James Allan_
-
-<div style='display: flex'>
-    <a href="https://ciir.cs.umass.edu/pubfiles/ir-262.pdf"><img src="https://img.shields.io/badge/Conference-SIGIR-brightgreen" /></a> 
-    <a href="https://ciir.cs.umass.edu/pubfiles/ir-262.pdf"><img src="https://img.shields.io/badge/CCF A-ff69b4" /></a> 
-</div>
-
-
-## 2001
-
-**Open Bookmark - an Agent-based Information Filtering System**
-
-_Ao Feng, Bin Liu, Zengxiang Lu, Haiming Lu, Pu Wang, Yanda Li_
-
-<div style='display: flex'>
-    <a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7AZ-xq6cidhcazs7v1BoxHebjc722YKca3tHEBxshg0OGcfZOuwMDW_bK7XKmxVbF&uniplatform=NZKPT"><img src="https://img.shields.io/badge/Journal-清华大学学报-brightgreen" /></a> 
-    <a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7AZ-xq6cidhcazs7v1BoxHebjc722YKca3tHEBxshg0OGcfZOuwMDW_bK7XKmxVbF&uniplatform=NZKPT"><img src="https://img.shields.io/badge/北大核心-ff69b4" /></a> 
-</div>
-
-
-
 
 
 
