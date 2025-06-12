@@ -31,6 +31,12 @@ const current_members = [
             
         ]
     },
+   {
+        avatar: './image/sxy.jpg',
+        name: '宋馨宇',
+        title: '2018级',
+        desc:'从事工业目标检测相关工作',
+    },
     {
         avatar: './image/placehold.jpg',
         name: '张举',
@@ -148,8 +154,8 @@ const current_members = [
 const graduate_members = [
     {
         avatar: './image/czh.png',
-        name: '陈郑淏',
-        title: '2019级'
+        name: '刘珂池',
+        title: '2023级'
     },
     {
         avatar: './image/placehold.jpg',
